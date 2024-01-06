@@ -68,7 +68,7 @@ body {
     background-color: #b2dFFC;
     color: #FFF;
     margin-top: 15px;
-    border-radius: 5px;
+    border-radius: 8px;
     height: 30px;
     font-size: 13px;
     padding: 0;
@@ -135,11 +135,13 @@ body {
     border: 1px solid #DBDBDB;
     width: 350px;
     margin-top: 10px;
+    height: 63px;
 }
 
 #register-container p {
     font-size: 14px;
     color: #262626;
+    padding: 19.5px;
 }
 
 #register-container a {
